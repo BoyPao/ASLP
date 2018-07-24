@@ -1,0 +1,28 @@
+set PATH=C:\Perl\bin;%PATH%
+cd /d U:\system
+perl ASR_EE4R_MFCC_0_D_A.pl
+
+HTK3.2bin\\HCopy -C config/config_HCopy_MFCC_0_D_A -S list/TIMIT_train_Hcopy.txt
+
+
+HTK3.2bin\\HParse lib/gram lib/pnet
+
+HTK3.2bin\\HDMan -m -w lib/phonemeList -n lib/monophones1 -l lib/dlog lib/pdict beep names
+
+HTK3.2bin\\HSGen -A -D -n 10 -s lib/pnet lib/pdict
+
+
+perl prompts2wlist.pl lib/sentences lib/wlist
+
+HTK3.2bin\\HDMan -m -w lib/wlist -n lib/monophones0 -l lib/dlog lib/wdict lib/timit
+
+perl prompts2mlf.pl label/word.mlf lib/sentence  
+
+
+HTK3.2bin\\HLEd -l '*' -d lib/wdict -i label/phoneme.mlf lib/mkphones0.led label/word.mlf
+
+
+HTK3.2bin\\HCompV -C config/config_train_MFCC_E_D_A -o hmmdef -f 0.01 -m -S list/TIMIT_train_FMCC.scp -M hmmsTrained/hmm0 lib/proto_s1d39_st8m1_EE4R_MFCC_E_D_A
+HTK3.2bin\\models_1mixsil hmmsTrained/hmm0/hmmdef hmmsTrained/hmm0/models
+
+HTK3.2bin\\HERest -C config/config_train_MFCC_0_D_A -I label/task2_phoneme.mlf -t 250.0 150.0 1000.0 -S list/TIMIT_train_FMCC.scp -H hmmsTrained/hmm0/macros -H hmmsTrained/hmm0/models -M hmmsTrained/hmm1 lib/wlist

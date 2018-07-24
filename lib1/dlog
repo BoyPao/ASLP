@@ -1,0 +1,98 @@
+WARNING: no script file global.ded
+WARNING: no script file lib/timit.ded
+Missing Words
+-------------
+CLOSE
+LIVE
+OBJECT
+PRESENT
+PROJECT
+USE
+WOUND
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+       timit      6224       1201       6224       1201
+       wdict      1201       1201       1201       1201
+
+1208 words required, 7 missing
+
+New Phone Usage Counts
+---------------------
+  1. ax    :   203
+  2. ey1   :    93
+  3. b     :   126
+  4. l     :   288
+  5. iy    :   117
+  6. aw1   :    31
+  7. t     :   411
+  8. ae2   :    22
+  9. k     :   279
+ 10. ix    :   202
+ 11. d     :   269
+ 12. eh1   :   140
+ 13. m     :   197
+ 14. ih    :   123
+ 15. ae    :    13
+ 16. s     :   356
+ 17. eh2   :    18
+ 18. axr   :   148
+ 19. aa1   :    95
+ 20. z     :   201
+ 21. ao1   :    84
+ 22. r     :   320
+ 23. ng    :    69
+ 24. n     :   376
+ 25. ch    :    46
+ 26. iy1   :    96
+ 27. v     :    97
+ 28. ae1   :   138
+ 29. sh    :    82
+ 30. jh    :    68
+ 31. er1   :    49
+ 32. ah1   :    76
+ 33. f     :   118
+ 34. g     :    91
+ 35. hh    :    62
+ 36. p     :   185
+ 37. ey2   :    21
+ 38. ow2   :    22
+ 39. ow1   :    67
+ 40. ao    :    10
+ 41. dh    :    25
+ 42. w     :    85
+ 43. ey    :     3
+ 44. er2   :     2
+ 45. ih1   :   137
+ 46. ah2   :    12
+ 47. th    :    28
+ 48. ih2   :    12
+ 49. el    :    62
+ 50. oy1   :    19
+ 51. uw2   :    12
+ 52. aa    :     6
+ 53. aa2   :     9
+ 54. y     :    46
+ 55. uw    :    11
+ 56. ay1   :    91
+ 57. uw1   :    61
+ 58. uh2   :     5
+ 59. er    :     9
+ 60. zh    :     5
+ 61. ao2   :     7
+ 62. em    :     3
+ 63. aw2   :     2
+ 64. ay2   :    15
+ 65. ay    :     6
+ 66. uh1   :    26
+ 67. uh    :     7
+ 68. iy2   :     8
+ 69. en    :    12
+ 70. ow    :     9
+ 71. eh    :     3
+ 72. aw    :     2
+ 73. oy2   :     2
+ 74. ah    :     3
+
+Dictionary lib/wdict created

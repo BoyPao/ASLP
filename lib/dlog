@@ -1,0 +1,16 @@
+WARNING: no script file global.ded
+WARNING: no script file lib/timit.ded
+Missing Words
+-------------
+aa
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+       timit      6224          0       6224          0
+       wdict         0          0          0          0
+
+1 words required, 1 missing
+
+
+Dictionary lib/wdict created

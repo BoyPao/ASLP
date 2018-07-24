@@ -1,0 +1,5328 @@
+Coding data
+Coding complete
+Training...
+Seed Hmm succesfully produced
+Iteration Number 1
+
+HTK Configuration Parameters[5]
+  Module/Tool     Parameter                  Value
+#                 NATURALREADORDER              TRUE
+# HNET            TRACE                          2
+#                 ACCWINDOW                      2
+#                 DELTAWINDOW                    3
+#                 TARGETKIND            MFCC_0_D_A
+
+Pruning-On[250.0 150.0 1000.0]
+
+HTK Configuration Parameters[5]
+  Module/Tool     Parameter                  Value
+                  NATURALREADORDER              TRUE
+# HNET            TRACE                          2
+                  ACCWINDOW                      2
+                  DELTAWINDOW                    3
+                  TARGETKIND            MFCC_0_D_A
+
+Iteration Number 2
+
+HTK Configuration Parameters[5]
+  Module/Tool     Parameter                  Value
+#                 NATURALREADORDER              TRUE
+# HNET            TRACE                          2
+#                 ACCWINDOW                      2
+#                 DELTAWINDOW                    3
+#                 TARGETKIND            MFCC_0_D_A
+
+Pruning-On[250.0 150.0 1000.0]
+
+HTK Configuration Parameters[5]
+  Module/Tool     Parameter                  Value
+                  NATURALREADORDER              TRUE
+# HNET            TRACE                          2
+                  ACCWINDOW                      2
+                  DELTAWINDOW                    3
+                  TARGETKIND            MFCC_0_D_A
+
+Iteration Number 3
+
+HTK Configuration Parameters[5]
+  Module/Tool     Parameter                  Value
+#                 NATURALREADORDER              TRUE
+# HNET            TRACE                          2
+#                 ACCWINDOW                      2
+#                 DELTAWINDOW                    3
+#                 TARGETKIND            MFCC_0_D_A
+
+Pruning-On[250.0 150.0 1000.0]
+
+HTK Configuration Parameters[5]
+  Module/Tool     Parameter                  Value
+                  NATURALREADORDER              TRUE
+# HNET            TRACE                          2
+                  ACCWINDOW                      2
+                  DELTAWINDOW                    3
+                  TARGETKIND            MFCC_0_D_A
+
+3 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 1 mixes max]
+
+TI silst {}
+ Tie items
+
+Saving new HMM files ...
+Edit Complete
+SP model fixed
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+6 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 1 mixes max]
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.233505, Std Dev GC = 11.041385
+            sh : mixup 1 -> 2
+            sh : mixup 1 -> 2
+            sh : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.139839, Std Dev GC = 11.030860
+            ih : mixup 1 -> 2
+            ih : mixup 1 -> 2
+            ih : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.325737, Std Dev GC = 10.977131
+            hh : mixup 1 -> 2
+            hh : mixup 1 -> 2
+            hh : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.314278, Std Dev GC = 10.860964
+            eh : mixup 1 -> 2
+            eh : mixup 1 -> 2
+            eh : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.281990, Std Dev GC = 10.861771
+            jh : mixup 1 -> 2
+            jh : mixup 1 -> 2
+            jh : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.360161, Std Dev GC = 10.764994
+             d : mixup 1 -> 2
+             d : mixup 1 -> 2
+             d : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.549583, Std Dev GC = 10.735918
+            ah : mixup 1 -> 2
+            ah : mixup 1 -> 2
+            ah : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.766060, Std Dev GC = 10.736742
+             k : mixup 1 -> 2
+             k : mixup 1 -> 2
+             k : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.880898, Std Dev GC = 10.682928
+             s : mixup 1 -> 2
+             s : mixup 1 -> 2
+             s : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.674606, Std Dev GC = 10.778169
+            uw : mixup 1 -> 2
+            uw : mixup 1 -> 2
+            uw : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.739693, Std Dev GC = 10.820207
+             n : mixup 1 -> 2
+             n : mixup 1 -> 2
+             n : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.862015, Std Dev GC = 10.761542
+             g : mixup 1 -> 2
+             g : mixup 1 -> 2
+             g : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.074821, Std Dev GC = 10.771498
+             r : mixup 1 -> 2
+             r : mixup 1 -> 2
+             r : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.203468, Std Dev GC = 10.717105
+             w : mixup 1 -> 2
+             w : mixup 1 -> 2
+             w : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.336479, Std Dev GC = 10.687947
+            aa : mixup 1 -> 2
+            aa : mixup 1 -> 2
+            aa : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.316689, Std Dev GC = 10.748036
+            dx : mixup 1 -> 2
+            dx : mixup 1 -> 2
+            dx : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.263580, Std Dev GC = 10.670394
+            er : mixup 1 -> 2
+            er : mixup 1 -> 2
+            er : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.311943, Std Dev GC = 10.644376
+             l : mixup 1 -> 2
+             l : mixup 1 -> 2
+             l : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.429077, Std Dev GC = 10.597371
+             y : mixup 1 -> 2
+             y : mixup 1 -> 2
+             y : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.242081, Std Dev GC = 10.723072
+            uh : mixup 1 -> 2
+            uh : mixup 1 -> 2
+            uh : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.469429, Std Dev GC = 10.804520
+            ae : mixup 1 -> 2
+            ae : mixup 1 -> 2
+            ae : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.330002, Std Dev GC = 10.992205
+             m : mixup 1 -> 2
+             m : mixup 1 -> 2
+             m : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.486900, Std Dev GC = 10.978182
+            oy : mixup 1 -> 2
+            oy : mixup 1 -> 2
+            oy : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.440430, Std Dev GC = 10.909462
+            dh : mixup 1 -> 2
+            dh : mixup 1 -> 2
+            dh : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.430397, Std Dev GC = 10.830078
+            iy : mixup 1 -> 2
+            iy : mixup 1 -> 2
+            iy : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.395164, Std Dev GC = 10.800673
+             v : mixup 1 -> 2
+             v : mixup 1 -> 2
+             v : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.387306, Std Dev GC = 10.723361
+             f : mixup 1 -> 2
+             f : mixup 1 -> 2
+             f : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.237694, Std Dev GC = 10.770248
+             t : mixup 1 -> 2
+             t : mixup 1 -> 2
+             t : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.226341, Std Dev GC = 10.710085
+            ow : mixup 1 -> 2
+            ow : mixup 1 -> 2
+            ow : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.208992, Std Dev GC = 10.714245
+            ch : mixup 1 -> 2
+            ch : mixup 1 -> 2
+            ch : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.178780, Std Dev GC = 10.672943
+             b : mixup 1 -> 2
+             b : mixup 1 -> 2
+             b : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.230385, Std Dev GC = 10.614568
+            ng : mixup 1 -> 2
+            ng : mixup 1 -> 2
+            ng : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.320244, Std Dev GC = 10.579643
+            ay : mixup 1 -> 2
+            ay : mixup 1 -> 2
+            ay : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.249733, Std Dev GC = 10.615963
+            th : mixup 1 -> 2
+            th : mixup 1 -> 2
+            th : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.174049, Std Dev GC = 10.591610
+            ey : mixup 1 -> 2
+            ey : mixup 1 -> 2
+            ey : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.054878, Std Dev GC = 10.672465
+             p : mixup 1 -> 2
+             p : mixup 1 -> 2
+             p : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 108.005646, Std Dev GC = 10.646163
+            aw : mixup 1 -> 2
+            aw : mixup 1 -> 2
+            aw : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.869881, Std Dev GC = 10.749830
+             z : mixup 1 -> 2
+             z : mixup 1 -> 2
+             z : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.807854, Std Dev GC = 10.697562
+            zh : mixup 1 -> 2
+            zh : mixup 1 -> 2
+            zh : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.703629, Std Dev GC = 10.677896
+          ssil : mixup 1 -> 2
+          ssil : mixup 1 -> 2
+          ssil : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 107.476036, Std Dev GC = 10.867815
+            sp : mixup 1 -> 2
+ MU: Number of mixes increased from 1 to 2
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+9 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 2 mixes max]
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.937248, Std Dev GC = 12.655626
+            sh : mixup 2 -> 3
+            sh : mixup 2 -> 3
+            sh : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.850945, Std Dev GC = 12.642191
+            ih : mixup 2 -> 3
+            ih : mixup 2 -> 3
+            ih : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.910568, Std Dev GC = 12.578972
+            hh : mixup 2 -> 3
+            hh : mixup 2 -> 3
+            hh : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.860382, Std Dev GC = 12.518579
+            eh : mixup 2 -> 3
+            eh : mixup 2 -> 3
+            eh : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.807121, Std Dev GC = 12.479488
+            jh : mixup 2 -> 3
+            jh : mixup 2 -> 3
+            jh : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.832756, Std Dev GC = 12.412567
+             d : mixup 2 -> 3
+             d : mixup 2 -> 3
+             d : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.912231, Std Dev GC = 12.365344
+            ah : mixup 2 -> 3
+            ah : mixup 2 -> 3
+            ah : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 105.033218, Std Dev GC = 12.351747
+             k : mixup 2 -> 3
+             k : mixup 2 -> 3
+             k : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 105.074081, Std Dev GC = 12.310900
+             s : mixup 2 -> 3
+             s : mixup 2 -> 3
+             s : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.936790, Std Dev GC = 12.347794
+            uw : mixup 2 -> 3
+            uw : mixup 2 -> 3
+            uw : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.963737, Std Dev GC = 12.375786
+             n : mixup 2 -> 3
+             n : mixup 2 -> 3
+             n : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.997681, Std Dev GC = 12.325706
+             g : mixup 2 -> 3
+             g : mixup 2 -> 3
+             g : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 105.088173, Std Dev GC = 12.292639
+             r : mixup 2 -> 3
+             r : mixup 2 -> 3
+             r : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 105.130493, Std Dev GC = 12.242899
+             w : mixup 2 -> 3
+             w : mixup 2 -> 3
+             w : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 105.130028, Std Dev GC = 12.187734
+            aa : mixup 2 -> 3
+            aa : mixup 2 -> 3
+            aa : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 105.123566, Std Dev GC = 12.169902
+            dx : mixup 2 -> 3
+            dx : mixup 2 -> 3
+            dx : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 105.093285, Std Dev GC = 12.125601
+            er : mixup 2 -> 3
+            er : mixup 2 -> 3
+            er : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 105.103500, Std Dev GC = 12.128906
+             l : mixup 2 -> 3
+             l : mixup 2 -> 3
+             l : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 105.123627, Std Dev GC = 12.069459
+             y : mixup 2 -> 3
+             y : mixup 2 -> 3
+             y : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.947433, Std Dev GC = 12.258440
+            uh : mixup 2 -> 3
+            uh : mixup 2 -> 3
+            uh : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 105.084007, Std Dev GC = 12.280688
+            ae : mixup 2 -> 3
+            ae : mixup 2 -> 3
+            ae : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.973045, Std Dev GC = 12.374722
+             m : mixup 2 -> 3
+             m : mixup 2 -> 3
+             m : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 105.017059, Std Dev GC = 12.324734
+            oy : mixup 2 -> 3
+            oy : mixup 2 -> 3
+            oy : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.931396, Std Dev GC = 12.299372
+            dh : mixup 2 -> 3
+            dh : mixup 2 -> 3
+            dh : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.895500, Std Dev GC = 12.246796
+            iy : mixup 2 -> 3
+            iy : mixup 2 -> 3
+            iy : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.820747, Std Dev GC = 12.243941
+             v : mixup 2 -> 3
+             v : mixup 2 -> 3
+             v : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.805969, Std Dev GC = 12.191533
+             f : mixup 2 -> 3
+             f : mixup 2 -> 3
+             f : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.720009, Std Dev GC = 12.193398
+             t : mixup 2 -> 3
+             t : mixup 2 -> 3
+             t : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.723183, Std Dev GC = 12.141456
+            ow : mixup 2 -> 3
+            ow : mixup 2 -> 3
+            ow : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.686699, Std Dev GC = 12.135934
+            ch : mixup 2 -> 3
+            ch : mixup 2 -> 3
+            ch : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.644852, Std Dev GC = 12.093741
+             b : mixup 2 -> 3
+             b : mixup 2 -> 3
+             b : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.682503, Std Dev GC = 12.049109
+            ng : mixup 2 -> 3
+            ng : mixup 2 -> 3
+            ng : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.695396, Std Dev GC = 12.002657
+            ay : mixup 2 -> 3
+            ay : mixup 2 -> 3
+            ay : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.613365, Std Dev GC = 12.051210
+            th : mixup 2 -> 3
+            th : mixup 2 -> 3
+            th : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.559395, Std Dev GC = 12.028583
+            ey : mixup 2 -> 3
+            ey : mixup 2 -> 3
+            ey : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.437614, Std Dev GC = 12.086308
+             p : mixup 2 -> 3
+             p : mixup 2 -> 3
+             p : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.399384, Std Dev GC = 12.074897
+            aw : mixup 2 -> 3
+            aw : mixup 2 -> 3
+            aw : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.276894, Std Dev GC = 12.203228
+             z : mixup 2 -> 3
+             z : mixup 2 -> 3
+             z : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.224823, Std Dev GC = 12.170799
+            zh : mixup 2 -> 3
+            zh : mixup 2 -> 3
+ WARNING [-2637]  HeaviestMix: mix 2 in zh has v.small gConst [34.681522] in U:\system\HTK3.2bin/HHEd
+            zh : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 104.153198, Std Dev GC = 12.147251
+          ssil : mixup 2 -> 3
+          ssil : mixup 2 -> 3
+          ssil : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 103.987366, Std Dev GC = 12.294057
+            sp : mixup 2 -> 3
+ MU: Number of mixes increased from 2 to 3
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+12 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 3 mixes max]
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 100.612343, Std Dev GC = 13.496578
+            sh : mixup 3 -> 4
+            sh : mixup 3 -> 4
+            sh : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 100.630447, Std Dev GC = 13.463693
+            ih : mixup 3 -> 4
+            ih : mixup 3 -> 4
+            ih : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 100.738594, Std Dev GC = 13.478063
+            hh : mixup 3 -> 4
+            hh : mixup 3 -> 4
+            hh : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 100.744072, Std Dev GC = 13.441419
+            eh : mixup 3 -> 4
+            eh : mixup 3 -> 4
+            eh : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 100.738739, Std Dev GC = 13.424577
+            jh : mixup 3 -> 4
+            jh : mixup 3 -> 4
+            jh : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 100.785027, Std Dev GC = 13.384693
+             d : mixup 3 -> 4
+             d : mixup 3 -> 4
+             d : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 100.874672, Std Dev GC = 13.371133
+            ah : mixup 3 -> 4
+            ah : mixup 3 -> 4
+            ah : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 100.979218, Std Dev GC = 13.375593
+             k : mixup 3 -> 4
+             k : mixup 3 -> 4
+             k : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 101.086411, Std Dev GC = 13.381400
+             s : mixup 3 -> 4
+             s : mixup 3 -> 4
+             s : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 101.057838, Std Dev GC = 13.364055
+            uw : mixup 3 -> 4
+            uw : mixup 3 -> 4
+            uw : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 101.107376, Std Dev GC = 13.346329
+             n : mixup 3 -> 4
+             n : mixup 3 -> 4
+             n : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 101.240799, Std Dev GC = 13.384119
+             g : mixup 3 -> 4
+             g : mixup 3 -> 4
+             g : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 101.372498, Std Dev GC = 13.420411
+             r : mixup 3 -> 4
+             r : mixup 3 -> 4
+             r : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 101.477776, Std Dev GC = 13.440010
+             w : mixup 3 -> 4
+             w : mixup 3 -> 4
+             w : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 101.612663, Std Dev GC = 13.488862
+            aa : mixup 3 -> 4
+            aa : mixup 3 -> 4
+            aa : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 101.628258, Std Dev GC = 13.547389
+            dx : mixup 3 -> 4
+            dx : mixup 3 -> 4
+            dx : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 101.646492, Std Dev GC = 13.500116
+            er : mixup 3 -> 4
+            er : mixup 3 -> 4
+            er : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 101.713295, Std Dev GC = 13.475221
+             l : mixup 3 -> 4
+             l : mixup 3 -> 4
+             l : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 101.839798, Std Dev GC = 13.509372
+             y : mixup 3 -> 4
+             y : mixup 3 -> 4
+             y : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 101.842751, Std Dev GC = 13.469539
+            uh : mixup 3 -> 4
+            uh : mixup 3 -> 4
+            uh : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 101.926834, Std Dev GC = 13.480765
+            ae : mixup 3 -> 4
+            ae : mixup 3 -> 4
+            ae : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 101.900520, Std Dev GC = 13.550257
+             m : mixup 3 -> 4
+             m : mixup 3 -> 4
+             m : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.021019, Std Dev GC = 13.580669
+            oy : mixup 3 -> 4
+            oy : mixup 3 -> 4
+            oy : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.045898, Std Dev GC = 13.560043
+            dh : mixup 3 -> 4
+            dh : mixup 3 -> 4
+            dh : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.092323, Std Dev GC = 13.527571
+            iy : mixup 3 -> 4
+            iy : mixup 3 -> 4
+            iy : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.148064, Std Dev GC = 13.508764
+             v : mixup 3 -> 4
+             v : mixup 3 -> 4
+             v : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.185524, Std Dev GC = 13.471880
+             f : mixup 3 -> 4
+             f : mixup 3 -> 4
+             f : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.146957, Std Dev GC = 13.452642
+             t : mixup 3 -> 4
+             t : mixup 3 -> 4
+             t : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.175461, Std Dev GC = 13.435504
+            ow : mixup 3 -> 4
+            ow : mixup 3 -> 4
+            ow : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.204041, Std Dev GC = 13.433005
+            ch : mixup 3 -> 4
+            ch : mixup 3 -> 4
+            ch : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.190437, Std Dev GC = 13.410111
+             b : mixup 3 -> 4
+             b : mixup 3 -> 4
+             b : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.234718, Std Dev GC = 13.380820
+            ng : mixup 3 -> 4
+            ng : mixup 3 -> 4
+            ng : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.304710, Std Dev GC = 13.377262
+            ay : mixup 3 -> 4
+            ay : mixup 3 -> 4
+            ay : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.292747, Std Dev GC = 13.359337
+            th : mixup 3 -> 4
+            th : mixup 3 -> 4
+            th : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.286835, Std Dev GC = 13.323086
+            ey : mixup 3 -> 4
+            ey : mixup 3 -> 4
+            ey : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.268929, Std Dev GC = 13.364771
+             p : mixup 3 -> 4
+             p : mixup 3 -> 4
+             p : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.254005, Std Dev GC = 13.360739
+            aw : mixup 3 -> 4
+            aw : mixup 3 -> 4
+            aw : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.244034, Std Dev GC = 13.338608
+             z : mixup 3 -> 4
+             z : mixup 3 -> 4
+             z : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.246910, Std Dev GC = 13.306486
+            zh : mixup 3 -> 4
+            zh : mixup 3 -> 4
+ WARNING [-2637]  HeaviestMix: mix 2 in zh has v.small gConst [23.437651] in U:\system\HTK3.2bin/HHEd
+            zh : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.170273, Std Dev GC = 13.333953
+          ssil : mixup 3 -> 4
+          ssil : mixup 3 -> 4
+          ssil : mixup 3 -> 4
+ MU: Number of mixes increased from 9 to 12
+
+MU 4 {}
+ Mixup to 4 components per stream
+  Mean GC = 102.038170, Std Dev GC = 13.452161
+            sp : mixup 3 -> 4
+ MU: Number of mixes increased from 3 to 4
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+15 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 4 mixes max]
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.709435, Std Dev GC = 13.957168
+            sh : mixup 4 -> 5
+            sh : mixup 4 -> 5
+            sh : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.647125, Std Dev GC = 13.953252
+            ih : mixup 4 -> 5
+            ih : mixup 4 -> 5
+            ih : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.687683, Std Dev GC = 13.921140
+            hh : mixup 4 -> 5
+            hh : mixup 4 -> 5
+            hh : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.652435, Std Dev GC = 13.916716
+            eh : mixup 4 -> 5
+            eh : mixup 4 -> 5
+            eh : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.606308, Std Dev GC = 13.913065
+            jh : mixup 4 -> 5
+            jh : mixup 4 -> 5
+            jh : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.611298, Std Dev GC = 13.874049
+             d : mixup 4 -> 5
+             d : mixup 4 -> 5
+             d : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.653481, Std Dev GC = 13.845932
+            ah : mixup 4 -> 5
+            ah : mixup 4 -> 5
+            ah : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.684906, Std Dev GC = 13.816252
+             k : mixup 4 -> 5
+             k : mixup 4 -> 5
+             k : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.718140, Std Dev GC = 13.815870
+             s : mixup 4 -> 5
+             s : mixup 4 -> 5
+             s : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.655083, Std Dev GC = 13.816681
+            uw : mixup 4 -> 5
+            uw : mixup 4 -> 5
+            uw : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.674553, Std Dev GC = 13.833307
+             n : mixup 4 -> 5
+             n : mixup 4 -> 5
+             n : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.677193, Std Dev GC = 13.799001
+             g : mixup 4 -> 5
+             g : mixup 4 -> 5
+             g : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.728180, Std Dev GC = 13.781637
+             r : mixup 4 -> 5
+             r : mixup 4 -> 5
+             r : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.749207, Std Dev GC = 13.756317
+             w : mixup 4 -> 5
+             w : mixup 4 -> 5
+             w : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.698265, Std Dev GC = 13.752889
+            aa : mixup 4 -> 5
+            aa : mixup 4 -> 5
+            aa : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.664146, Std Dev GC = 13.760010
+            dx : mixup 4 -> 5
+            dx : mixup 4 -> 5
+            dx : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.611992, Std Dev GC = 13.749672
+            er : mixup 4 -> 5
+            er : mixup 4 -> 5
+            er : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.643669, Std Dev GC = 13.789205
+             l : mixup 4 -> 5
+             l : mixup 4 -> 5
+             l : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.650658, Std Dev GC = 13.751919
+             y : mixup 4 -> 5
+             y : mixup 4 -> 5
+             y : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.528976, Std Dev GC = 13.897667
+            uh : mixup 4 -> 5
+            uh : mixup 4 -> 5
+            uh : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.576706, Std Dev GC = 13.879661
+            ae : mixup 4 -> 5
+            ae : mixup 4 -> 5
+            ae : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.507500, Std Dev GC = 13.944628
+             m : mixup 4 -> 5
+             m : mixup 4 -> 5
+             m : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.554016, Std Dev GC = 13.925263
+            oy : mixup 4 -> 5
+            oy : mixup 4 -> 5
+            oy : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.505707, Std Dev GC = 13.904366
+            dh : mixup 4 -> 5
+            dh : mixup 4 -> 5
+            dh : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.466591, Std Dev GC = 13.879920
+            iy : mixup 4 -> 5
+            iy : mixup 4 -> 5
+            iy : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.431808, Std Dev GC = 13.862675
+             v : mixup 4 -> 5
+             v : mixup 4 -> 5
+             v : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.426140, Std Dev GC = 13.827787
+             f : mixup 4 -> 5
+             f : mixup 4 -> 5
+             f : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.368576, Std Dev GC = 13.836194
+             t : mixup 4 -> 5
+             t : mixup 4 -> 5
+             t : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.333275, Std Dev GC = 13.813123
+            ow : mixup 4 -> 5
+            ow : mixup 4 -> 5
+            ow : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.294823, Std Dev GC = 13.818308
+            ch : mixup 4 -> 5
+            ch : mixup 4 -> 5
+            ch : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.251091, Std Dev GC = 13.806241
+             b : mixup 4 -> 5
+             b : mixup 4 -> 5
+             b : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.251221, Std Dev GC = 13.783648
+            ng : mixup 4 -> 5
+            ng : mixup 4 -> 5
+            ng : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.253609, Std Dev GC = 13.748490
+            ay : mixup 4 -> 5
+            ay : mixup 4 -> 5
+            ay : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.190170, Std Dev GC = 13.788830
+            th : mixup 4 -> 5
+            th : mixup 4 -> 5
+            th : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.149689, Std Dev GC = 13.773418
+            ey : mixup 4 -> 5
+            ey : mixup 4 -> 5
+            ey : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.074127, Std Dev GC = 13.823866
+             p : mixup 4 -> 5
+             p : mixup 4 -> 5
+             p : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 99.082535, Std Dev GC = 13.790713
+            aw : mixup 4 -> 5
+            aw : mixup 4 -> 5
+            aw : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 98.959610, Std Dev GC = 13.908994
+             z : mixup 4 -> 5
+             z : mixup 4 -> 5
+             z : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 98.910759, Std Dev GC = 13.897900
+            zh : mixup 4 -> 5
+            zh : mixup 4 -> 5
+ WARNING [-2637]  HeaviestMix: mix 2 in zh has v.small gConst [23.270267] in U:\system\HTK3.2bin/HHEd
+            zh : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 98.826073, Std Dev GC = 13.948034
+          ssil : mixup 4 -> 5
+          ssil : mixup 4 -> 5
+          ssil : mixup 4 -> 5
+ MU: Number of mixes increased from 12 to 15
+
+MU 5 {}
+ Mixup to 5 components per stream
+  Mean GC = 98.792908, Std Dev GC = 13.984024
+            sp : mixup 4 -> 5
+ MU: Number of mixes increased from 4 to 5
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+18 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 5 mixes max]
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 96.721634, Std Dev GC = 14.623383
+            sh : mixup 5 -> 6
+            sh : mixup 5 -> 6
+            sh : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 96.712837, Std Dev GC = 14.594594
+            ih : mixup 5 -> 6
+            ih : mixup 5 -> 6
+            ih : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 96.725456, Std Dev GC = 14.573277
+            hh : mixup 5 -> 6
+            hh : mixup 5 -> 6
+            hh : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 96.703392, Std Dev GC = 14.551944
+            eh : mixup 5 -> 6
+            eh : mixup 5 -> 6
+            eh : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 96.743698, Std Dev GC = 14.545737
+            jh : mixup 5 -> 6
+            jh : mixup 5 -> 6
+            jh : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 96.761559, Std Dev GC = 14.512921
+             d : mixup 5 -> 6
+             d : mixup 5 -> 6
+             d : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 96.840408, Std Dev GC = 14.523899
+            ah : mixup 5 -> 6
+            ah : mixup 5 -> 6
+            ah : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 96.915970, Std Dev GC = 14.555917
+             k : mixup 5 -> 6
+             k : mixup 5 -> 6
+             k : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 96.957497, Std Dev GC = 14.540854
+             s : mixup 5 -> 6
+             s : mixup 5 -> 6
+             s : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 96.904312, Std Dev GC = 14.546595
+            uw : mixup 5 -> 6
+            uw : mixup 5 -> 6
+            uw : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 96.898705, Std Dev GC = 14.541950
+             n : mixup 5 -> 6
+             n : mixup 5 -> 6
+             n : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 96.963226, Std Dev GC = 14.538547
+             g : mixup 5 -> 6
+             g : mixup 5 -> 6
+             g : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.029259, Std Dev GC = 14.537302
+             r : mixup 5 -> 6
+             r : mixup 5 -> 6
+             r : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.083420, Std Dev GC = 14.533486
+             w : mixup 5 -> 6
+             w : mixup 5 -> 6
+             w : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.126015, Std Dev GC = 14.524198
+            aa : mixup 5 -> 6
+            aa : mixup 5 -> 6
+            aa : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.157829, Std Dev GC = 14.507003
+            dx : mixup 5 -> 6
+            dx : mixup 5 -> 6
+            dx : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.161720, Std Dev GC = 14.489418
+            er : mixup 5 -> 6
+            er : mixup 5 -> 6
+            er : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.141205, Std Dev GC = 14.486462
+             l : mixup 5 -> 6
+             l : mixup 5 -> 6
+             l : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.173485, Std Dev GC = 14.471519
+             y : mixup 5 -> 6
+             y : mixup 5 -> 6
+             y : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.087486, Std Dev GC = 14.536557
+            uh : mixup 5 -> 6
+            uh : mixup 5 -> 6
+            uh : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.165436, Std Dev GC = 14.556274
+            ae : mixup 5 -> 6
+            ae : mixup 5 -> 6
+            ae : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.146049, Std Dev GC = 14.541112
+             m : mixup 5 -> 6
+             m : mixup 5 -> 6
+             m : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.184418, Std Dev GC = 14.520310
+            oy : mixup 5 -> 6
+            oy : mixup 5 -> 6
+            oy : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.172707, Std Dev GC = 14.497154
+            dh : mixup 5 -> 6
+            dh : mixup 5 -> 6
+            dh : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.199257, Std Dev GC = 14.476232
+            iy : mixup 5 -> 6
+            iy : mixup 5 -> 6
+            iy : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.159233, Std Dev GC = 14.483136
+             v : mixup 5 -> 6
+             v : mixup 5 -> 6
+             v : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.176826, Std Dev GC = 14.453856
+             f : mixup 5 -> 6
+             f : mixup 5 -> 6
+             f : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.144974, Std Dev GC = 14.439719
+             t : mixup 5 -> 6
+             t : mixup 5 -> 6
+             t : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.175499, Std Dev GC = 14.422153
+            ow : mixup 5 -> 6
+            ow : mixup 5 -> 6
+            ow : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.151474, Std Dev GC = 14.404284
+            ch : mixup 5 -> 6
+            ch : mixup 5 -> 6
+            ch : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.145241, Std Dev GC = 14.377412
+             b : mixup 5 -> 6
+             b : mixup 5 -> 6
+             b : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.174812, Std Dev GC = 14.356116
+            ng : mixup 5 -> 6
+            ng : mixup 5 -> 6
+            ng : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.189598, Std Dev GC = 14.327487
+            ay : mixup 5 -> 6
+            ay : mixup 5 -> 6
+            ay : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.141197, Std Dev GC = 14.360784
+            th : mixup 5 -> 6
+            th : mixup 5 -> 6
+            th : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.133392, Std Dev GC = 14.336478
+            ey : mixup 5 -> 6
+            ey : mixup 5 -> 6
+            ey : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.104073, Std Dev GC = 14.329700
+             p : mixup 5 -> 6
+             p : mixup 5 -> 6
+             p : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.093170, Std Dev GC = 14.316787
+            aw : mixup 5 -> 6
+            aw : mixup 5 -> 6
+            aw : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.082993, Std Dev GC = 14.298136
+             z : mixup 5 -> 6
+             z : mixup 5 -> 6
+             z : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.067543, Std Dev GC = 14.271525
+            zh : mixup 5 -> 6
+            zh : mixup 5 -> 6
+ WARNING [-2637]  HeaviestMix: mix 2 in zh has v.small gConst [23.353321] in U:\system\HTK3.2bin/HHEd
+            zh : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 97.056686, Std Dev GC = 14.244286
+          ssil : mixup 5 -> 6
+          ssil : mixup 5 -> 6
+          ssil : mixup 5 -> 6
+ MU: Number of mixes increased from 15 to 18
+
+MU 6 {}
+ Mixup to 6 components per stream
+  Mean GC = 96.976959, Std Dev GC = 14.285602
+            sp : mixup 5 -> 6
+ MU: Number of mixes increased from 5 to 6
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+21 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 6 mixes max]
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.115723, Std Dev GC = 14.853627
+            sh : mixup 6 -> 7
+            sh : mixup 6 -> 7
+            sh : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.116425, Std Dev GC = 14.830723
+            ih : mixup 6 -> 7
+            ih : mixup 6 -> 7
+            ih : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.153625, Std Dev GC = 14.812113
+            hh : mixup 6 -> 7
+            hh : mixup 6 -> 7
+            hh : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.156479, Std Dev GC = 14.807660
+            eh : mixup 6 -> 7
+            eh : mixup 6 -> 7
+            eh : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.141121, Std Dev GC = 14.783496
+            jh : mixup 6 -> 7
+            jh : mixup 6 -> 7
+            jh : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.173828, Std Dev GC = 14.765099
+             d : mixup 6 -> 7
+             d : mixup 6 -> 7
+             d : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.210228, Std Dev GC = 14.763528
+            ah : mixup 6 -> 7
+            ah : mixup 6 -> 7
+            ah : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.278847, Std Dev GC = 14.774155
+             k : mixup 6 -> 7
+             k : mixup 6 -> 7
+             k : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.333374, Std Dev GC = 14.771994
+             s : mixup 6 -> 7
+             s : mixup 6 -> 7
+             s : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.304344, Std Dev GC = 14.764002
+            uw : mixup 6 -> 7
+            uw : mixup 6 -> 7
+            uw : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.324257, Std Dev GC = 14.784085
+             n : mixup 6 -> 7
+             n : mixup 6 -> 7
+             n : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.367668, Std Dev GC = 14.778153
+             g : mixup 6 -> 7
+             g : mixup 6 -> 7
+             g : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.422081, Std Dev GC = 14.774554
+             r : mixup 6 -> 7
+             r : mixup 6 -> 7
+             r : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.505684, Std Dev GC = 14.811117
+             w : mixup 6 -> 7
+             w : mixup 6 -> 7
+             w : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.506973, Std Dev GC = 14.814167
+            aa : mixup 6 -> 7
+            aa : mixup 6 -> 7
+            aa : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.477982, Std Dev GC = 14.822721
+            dx : mixup 6 -> 7
+            dx : mixup 6 -> 7
+            dx : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.510529, Std Dev GC = 14.805633
+            er : mixup 6 -> 7
+            er : mixup 6 -> 7
+            er : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.553131, Std Dev GC = 14.797495
+             l : mixup 6 -> 7
+             l : mixup 6 -> 7
+             l : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.623428, Std Dev GC = 14.812789
+             y : mixup 6 -> 7
+             y : mixup 6 -> 7
+             y : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.565857, Std Dev GC = 14.897788
+            uh : mixup 6 -> 7
+            uh : mixup 6 -> 7
+            uh : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.603905, Std Dev GC = 14.891320
+            ae : mixup 6 -> 7
+            ae : mixup 6 -> 7
+            ae : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.552406, Std Dev GC = 14.939163
+             m : mixup 6 -> 7
+             m : mixup 6 -> 7
+             m : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.591476, Std Dev GC = 14.927492
+            oy : mixup 6 -> 7
+            oy : mixup 6 -> 7
+            oy : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.566269, Std Dev GC = 14.905177
+            dh : mixup 6 -> 7
+            dh : mixup 6 -> 7
+            dh : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.544983, Std Dev GC = 14.882353
+            iy : mixup 6 -> 7
+            iy : mixup 6 -> 7
+            iy : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.556465, Std Dev GC = 14.859231
+             v : mixup 6 -> 7
+             v : mixup 6 -> 7
+             v : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.570724, Std Dev GC = 14.835628
+             f : mixup 6 -> 7
+             f : mixup 6 -> 7
+             f : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.562172, Std Dev GC = 14.811083
+             t : mixup 6 -> 7
+             t : mixup 6 -> 7
+             t : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.605255, Std Dev GC = 14.812341
+            ow : mixup 6 -> 7
+            ow : mixup 6 -> 7
+            ow : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.609901, Std Dev GC = 14.828066
+            ch : mixup 6 -> 7
+            ch : mixup 6 -> 7
+            ch : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.580124, Std Dev GC = 14.815075
+             b : mixup 6 -> 7
+             b : mixup 6 -> 7
+             b : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.606392, Std Dev GC = 14.795706
+            ng : mixup 6 -> 7
+            ng : mixup 6 -> 7
+            ng : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.630714, Std Dev GC = 14.790623
+            ay : mixup 6 -> 7
+            ay : mixup 6 -> 7
+            ay : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.588699, Std Dev GC = 14.820724
+            th : mixup 6 -> 7
+            th : mixup 6 -> 7
+            th : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.550522, Std Dev GC = 14.818336
+            ey : mixup 6 -> 7
+            ey : mixup 6 -> 7
+            ey : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.500992, Std Dev GC = 14.843143
+             p : mixup 6 -> 7
+             p : mixup 6 -> 7
+             p : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.491425, Std Dev GC = 14.842192
+            aw : mixup 6 -> 7
+            aw : mixup 6 -> 7
+            aw : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.444603, Std Dev GC = 14.849172
+             z : mixup 6 -> 7
+             z : mixup 6 -> 7
+             z : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.463089, Std Dev GC = 14.838613
+            zh : mixup 6 -> 7
+            zh : mixup 6 -> 7
+ WARNING [-2637]  HeaviestMix: mix 2 in zh has v.small gConst [23.376068] in U:\system\HTK3.2bin/HHEd
+            zh : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.376190, Std Dev GC = 14.883893
+          ssil : mixup 6 -> 7
+          ssil : mixup 6 -> 7
+          ssil : mixup 6 -> 7
+ MU: Number of mixes increased from 18 to 21
+
+MU 7 {}
+ Mixup to 7 components per stream
+  Mean GC = 95.311104, Std Dev GC = 14.961218
+            sp : mixup 6 -> 7
+ MU: Number of mixes increased from 6 to 7
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+24 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 7 mixes max]
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.682991, Std Dev GC = 15.605125
+            sh : mixup 7 -> 8
+            sh : mixup 7 -> 8
+            sh : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.662781, Std Dev GC = 15.586882
+            ih : mixup 7 -> 8
+            ih : mixup 7 -> 8
+            ih : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.738319, Std Dev GC = 15.622106
+            hh : mixup 7 -> 8
+            hh : mixup 7 -> 8
+            hh : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.727135, Std Dev GC = 15.605382
+            eh : mixup 7 -> 8
+            eh : mixup 7 -> 8
+            eh : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.684097, Std Dev GC = 15.617427
+            jh : mixup 7 -> 8
+            jh : mixup 7 -> 8
+            jh : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.695267, Std Dev GC = 15.592700
+             d : mixup 7 -> 8
+             d : mixup 7 -> 8
+             d : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.733543, Std Dev GC = 15.580374
+            ah : mixup 7 -> 8
+            ah : mixup 7 -> 8
+            ah : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.783577, Std Dev GC = 15.579690
+             k : mixup 7 -> 8
+             k : mixup 7 -> 8
+             k : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.852165, Std Dev GC = 15.600489
+             s : mixup 7 -> 8
+             s : mixup 7 -> 8
+             s : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.848228, Std Dev GC = 15.579600
+            uw : mixup 7 -> 8
+            uw : mixup 7 -> 8
+            uw : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.859711, Std Dev GC = 15.580025
+             n : mixup 7 -> 8
+             n : mixup 7 -> 8
+             n : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.879967, Std Dev GC = 15.566220
+             g : mixup 7 -> 8
+             g : mixup 7 -> 8
+             g : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.920334, Std Dev GC = 15.561399
+             r : mixup 7 -> 8
+             r : mixup 7 -> 8
+             r : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.914398, Std Dev GC = 15.543366
+             w : mixup 7 -> 8
+             w : mixup 7 -> 8
+             w : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.932426, Std Dev GC = 15.538900
+            aa : mixup 7 -> 8
+            aa : mixup 7 -> 8
+            aa : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.914398, Std Dev GC = 15.557227
+            dx : mixup 7 -> 8
+            dx : mixup 7 -> 8
+            dx : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.898476, Std Dev GC = 15.539627
+            er : mixup 7 -> 8
+            er : mixup 7 -> 8
+            er : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.916985, Std Dev GC = 15.531633
+             l : mixup 7 -> 8
+             l : mixup 7 -> 8
+             l : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.925026, Std Dev GC = 15.515131
+             y : mixup 7 -> 8
+             y : mixup 7 -> 8
+             y : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.943718, Std Dev GC = 15.498622
+            uh : mixup 7 -> 8
+            uh : mixup 7 -> 8
+            uh : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.990829, Std Dev GC = 15.509024
+            ae : mixup 7 -> 8
+            ae : mixup 7 -> 8
+            ae : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.953842, Std Dev GC = 15.521006
+             m : mixup 7 -> 8
+             m : mixup 7 -> 8
+             m : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.989059, Std Dev GC = 15.507947
+            oy : mixup 7 -> 8
+            oy : mixup 7 -> 8
+            oy : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.963432, Std Dev GC = 15.501421
+            dh : mixup 7 -> 8
+            dh : mixup 7 -> 8
+            dh : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.980713, Std Dev GC = 15.480733
+            iy : mixup 7 -> 8
+            iy : mixup 7 -> 8
+            iy : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.939354, Std Dev GC = 15.474705
+             v : mixup 7 -> 8
+             v : mixup 7 -> 8
+             v : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.951698, Std Dev GC = 15.452460
+             f : mixup 7 -> 8
+             f : mixup 7 -> 8
+             f : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.938530, Std Dev GC = 15.444314
+             t : mixup 7 -> 8
+             t : mixup 7 -> 8
+             t : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.938835, Std Dev GC = 15.427070
+            ow : mixup 7 -> 8
+            ow : mixup 7 -> 8
+            ow : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.955742, Std Dev GC = 15.406162
+            ch : mixup 7 -> 8
+            ch : mixup 7 -> 8
+            ch : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.970123, Std Dev GC = 15.385128
+             b : mixup 7 -> 8
+             b : mixup 7 -> 8
+             b : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.983421, Std Dev GC = 15.378109
+            ng : mixup 7 -> 8
+            ng : mixup 7 -> 8
+            ng : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 94.034531, Std Dev GC = 15.383208
+            ay : mixup 7 -> 8
+            ay : mixup 7 -> 8
+            ay : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.989372, Std Dev GC = 15.388008
+            th : mixup 7 -> 8
+            th : mixup 7 -> 8
+            th : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.991539, Std Dev GC = 15.368330
+            ey : mixup 7 -> 8
+            ey : mixup 7 -> 8
+            ey : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.939247, Std Dev GC = 15.400394
+             p : mixup 7 -> 8
+             p : mixup 7 -> 8
+             p : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.946358, Std Dev GC = 15.377272
+            aw : mixup 7 -> 8
+            aw : mixup 7 -> 8
+            aw : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.878265, Std Dev GC = 15.441776
+             z : mixup 7 -> 8
+             z : mixup 7 -> 8
+             z : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.853363, Std Dev GC = 15.429642
+            zh : mixup 7 -> 8
+            zh : mixup 7 -> 8
+ WARNING [-2637]  HeaviestMix: mix 2 in zh has v.small gConst [23.371546] in U:\system\HTK3.2bin/HHEd
+            zh : mixup 7 -> 8
+ WARNING [-2637]  HeaviestMix: mix 5 in zh has v.small gConst [22.715082] in U:\system\HTK3.2bin/HHEd
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.801735, Std Dev GC = 15.479077
+          ssil : mixup 7 -> 8
+          ssil : mixup 7 -> 8
+          ssil : mixup 7 -> 8
+ MU: Number of mixes increased from 21 to 24
+
+MU 8 {}
+ Mixup to 8 components per stream
+  Mean GC = 93.782074, Std Dev GC = 15.459846
+            sp : mixup 7 -> 8
+ MU: Number of mixes increased from 7 to 8
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+27 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 8 mixes max]
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.350708, Std Dev GC = 15.904122
+            sh : mixup 8 -> 9
+            sh : mixup 8 -> 9
+            sh : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.330833, Std Dev GC = 15.888840
+            ih : mixup 8 -> 9
+            ih : mixup 8 -> 9
+            ih : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.351776, Std Dev GC = 15.883419
+            hh : mixup 8 -> 9
+            hh : mixup 8 -> 9
+            hh : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.344131, Std Dev GC = 15.885794
+            eh : mixup 8 -> 9
+            eh : mixup 8 -> 9
+            eh : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.342567, Std Dev GC = 15.877232
+            jh : mixup 8 -> 9
+            jh : mixup 8 -> 9
+            jh : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.352798, Std Dev GC = 15.857746
+             d : mixup 8 -> 9
+             d : mixup 8 -> 9
+             d : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.400169, Std Dev GC = 15.863707
+            ah : mixup 8 -> 9
+            ah : mixup 8 -> 9
+            ah : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.423187, Std Dev GC = 15.853456
+             k : mixup 8 -> 9
+             k : mixup 8 -> 9
+             k : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.435455, Std Dev GC = 15.837493
+             s : mixup 8 -> 9
+             s : mixup 8 -> 9
+             s : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.429192, Std Dev GC = 15.820698
+            uw : mixup 8 -> 9
+            uw : mixup 8 -> 9
+            uw : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.422203, Std Dev GC = 15.817677
+             n : mixup 8 -> 9
+             n : mixup 8 -> 9
+             n : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.453407, Std Dev GC = 15.804316
+             g : mixup 8 -> 9
+             g : mixup 8 -> 9
+             g : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.513878, Std Dev GC = 15.820327
+             r : mixup 8 -> 9
+             r : mixup 8 -> 9
+             r : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.521751, Std Dev GC = 15.811375
+             w : mixup 8 -> 9
+             w : mixup 8 -> 9
+             w : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.525734, Std Dev GC = 15.790188
+            aa : mixup 8 -> 9
+            aa : mixup 8 -> 9
+            aa : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.511230, Std Dev GC = 15.789936
+            dx : mixup 8 -> 9
+            dx : mixup 8 -> 9
+            dx : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.521828, Std Dev GC = 15.770942
+            er : mixup 8 -> 9
+            er : mixup 8 -> 9
+            er : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.555946, Std Dev GC = 15.762162
+             l : mixup 8 -> 9
+             l : mixup 8 -> 9
+             l : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.574448, Std Dev GC = 15.743917
+             y : mixup 8 -> 9
+             y : mixup 8 -> 9
+             y : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.518051, Std Dev GC = 15.801898
+            uh : mixup 8 -> 9
+            uh : mixup 8 -> 9
+            uh : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.558830, Std Dev GC = 15.797909
+            ae : mixup 8 -> 9
+            ae : mixup 8 -> 9
+            ae : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.556206, Std Dev GC = 15.811182
+             m : mixup 8 -> 9
+             m : mixup 8 -> 9
+             m : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.578934, Std Dev GC = 15.794961
+            oy : mixup 8 -> 9
+            oy : mixup 8 -> 9
+            oy : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.552414, Std Dev GC = 15.781416
+            dh : mixup 8 -> 9
+            dh : mixup 8 -> 9
+            dh : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.538506, Std Dev GC = 15.769844
+            iy : mixup 8 -> 9
+            iy : mixup 8 -> 9
+            iy : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.533752, Std Dev GC = 15.758648
+             v : mixup 8 -> 9
+             v : mixup 8 -> 9
+             v : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.537910, Std Dev GC = 15.737468
+             f : mixup 8 -> 9
+             f : mixup 8 -> 9
+             f : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.517723, Std Dev GC = 15.726948
+             t : mixup 8 -> 9
+             t : mixup 8 -> 9
+             t : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.533630, Std Dev GC = 15.719815
+            ow : mixup 8 -> 9
+            ow : mixup 8 -> 9
+            ow : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.523087, Std Dev GC = 15.714857
+            ch : mixup 8 -> 9
+            ch : mixup 8 -> 9
+            ch : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.538002, Std Dev GC = 15.696587
+             b : mixup 8 -> 9
+             b : mixup 8 -> 9
+             b : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.542900, Std Dev GC = 15.679790
+            ng : mixup 8 -> 9
+            ng : mixup 8 -> 9
+            ng : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.577225, Std Dev GC = 15.681736
+            ay : mixup 8 -> 9
+            ay : mixup 8 -> 9
+            ay : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.556236, Std Dev GC = 15.697279
+            th : mixup 8 -> 9
+            th : mixup 8 -> 9
+            th : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.550621, Std Dev GC = 15.675736
+            ey : mixup 8 -> 9
+            ey : mixup 8 -> 9
+            ey : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.515419, Std Dev GC = 15.678917
+             p : mixup 8 -> 9
+             p : mixup 8 -> 9
+             p : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.515129, Std Dev GC = 15.667730
+            aw : mixup 8 -> 9
+            aw : mixup 8 -> 9
+            aw : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.490173, Std Dev GC = 15.717033
+             z : mixup 8 -> 9
+             z : mixup 8 -> 9
+             z : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.490730, Std Dev GC = 15.700449
+            zh : mixup 8 -> 9
+            zh : mixup 8 -> 9
+ WARNING [-2637]  HeaviestMix: mix 2 in zh has v.small gConst [22.875546] in U:\system\HTK3.2bin/HHEd
+            zh : mixup 8 -> 9
+ WARNING [-2637]  HeaviestMix: mix 3 in zh has v.small gConst [15.979918] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 5 in zh has v.small gConst [22.715086] in U:\system\HTK3.2bin/HHEd
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.395966, Std Dev GC = 15.782644
+          ssil : mixup 8 -> 9
+          ssil : mixup 8 -> 9
+          ssil : mixup 8 -> 9
+ MU: Number of mixes increased from 24 to 27
+
+MU 9 {}
+ Mixup to 9 components per stream
+  Mean GC = 92.321678, Std Dev GC = 15.825691
+            sp : mixup 8 -> 9
+ MU: Number of mixes increased from 8 to 9
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+30 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 9 mixes max]
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.014046, Std Dev GC = 16.372585
+            sh : mixup 9 -> 10
+            sh : mixup 9 -> 10
+            sh : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.004112, Std Dev GC = 16.351532
+            ih : mixup 9 -> 10
+            ih : mixup 9 -> 10
+            ih : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.047302, Std Dev GC = 16.355774
+            hh : mixup 9 -> 10
+            hh : mixup 9 -> 10
+            hh : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.065865, Std Dev GC = 16.338570
+            eh : mixup 9 -> 10
+            eh : mixup 9 -> 10
+            eh : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.068810, Std Dev GC = 16.331882
+            jh : mixup 9 -> 10
+            jh : mixup 9 -> 10
+            jh : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.082748, Std Dev GC = 16.313284
+             d : mixup 9 -> 10
+             d : mixup 9 -> 10
+             d : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.097549, Std Dev GC = 16.307203
+            ah : mixup 9 -> 10
+            ah : mixup 9 -> 10
+            ah : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.138107, Std Dev GC = 16.313025
+             k : mixup 9 -> 10
+             k : mixup 9 -> 10
+             k : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.167870, Std Dev GC = 16.303984
+             s : mixup 9 -> 10
+             s : mixup 9 -> 10
+             s : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.143440, Std Dev GC = 16.295601
+            uw : mixup 9 -> 10
+            uw : mixup 9 -> 10
+            uw : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.186569, Std Dev GC = 16.310080
+             n : mixup 9 -> 10
+             n : mixup 9 -> 10
+             n : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.200310, Std Dev GC = 16.292765
+             g : mixup 9 -> 10
+             g : mixup 9 -> 10
+             g : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.240891, Std Dev GC = 16.290062
+             r : mixup 9 -> 10
+             r : mixup 9 -> 10
+             r : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.281494, Std Dev GC = 16.294641
+             w : mixup 9 -> 10
+             w : mixup 9 -> 10
+             w : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.303070, Std Dev GC = 16.284346
+            aa : mixup 9 -> 10
+            aa : mixup 9 -> 10
+            aa : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.295540, Std Dev GC = 16.270691
+            dx : mixup 9 -> 10
+            dx : mixup 9 -> 10
+            dx : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.304611, Std Dev GC = 16.258947
+            er : mixup 9 -> 10
+            er : mixup 9 -> 10
+            er : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.295753, Std Dev GC = 16.258402
+             l : mixup 9 -> 10
+             l : mixup 9 -> 10
+             l : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.325348, Std Dev GC = 16.250633
+             y : mixup 9 -> 10
+             y : mixup 9 -> 10
+             y : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.261826, Std Dev GC = 16.292936
+            uh : mixup 9 -> 10
+            uh : mixup 9 -> 10
+            uh : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.290985, Std Dev GC = 16.296152
+            ae : mixup 9 -> 10
+            ae : mixup 9 -> 10
+            ae : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.253151, Std Dev GC = 16.335394
+             m : mixup 9 -> 10
+             m : mixup 9 -> 10
+             m : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.278084, Std Dev GC = 16.321701
+            oy : mixup 9 -> 10
+            oy : mixup 9 -> 10
+            oy : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.274315, Std Dev GC = 16.307135
+            dh : mixup 9 -> 10
+            dh : mixup 9 -> 10
+            dh : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.282814, Std Dev GC = 16.304190
+            iy : mixup 9 -> 10
+            iy : mixup 9 -> 10
+            iy : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.284996, Std Dev GC = 16.290733
+             v : mixup 9 -> 10
+             v : mixup 9 -> 10
+             v : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.300652, Std Dev GC = 16.274611
+             f : mixup 9 -> 10
+             f : mixup 9 -> 10
+             f : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.297905, Std Dev GC = 16.257162
+             t : mixup 9 -> 10
+             t : mixup 9 -> 10
+             t : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.309265, Std Dev GC = 16.242153
+            ow : mixup 9 -> 10
+            ow : mixup 9 -> 10
+            ow : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.318352, Std Dev GC = 16.227844
+            ch : mixup 9 -> 10
+            ch : mixup 9 -> 10
+            ch : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.317497, Std Dev GC = 16.231499
+             b : mixup 9 -> 10
+             b : mixup 9 -> 10
+             b : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.329849, Std Dev GC = 16.214586
+            ng : mixup 9 -> 10
+            ng : mixup 9 -> 10
+            ng : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.347466, Std Dev GC = 16.209969
+            ay : mixup 9 -> 10
+            ay : mixup 9 -> 10
+            ay : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.342545, Std Dev GC = 16.217165
+            th : mixup 9 -> 10
+            th : mixup 9 -> 10
+            th : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.347244, Std Dev GC = 16.201582
+            ey : mixup 9 -> 10
+            ey : mixup 9 -> 10
+            ey : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.320755, Std Dev GC = 16.209793
+             p : mixup 9 -> 10
+             p : mixup 9 -> 10
+             p : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.323746, Std Dev GC = 16.202427
+            aw : mixup 9 -> 10
+            aw : mixup 9 -> 10
+            aw : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.293076, Std Dev GC = 16.205837
+             z : mixup 9 -> 10
+             z : mixup 9 -> 10
+             z : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.285233, Std Dev GC = 16.189262
+            zh : mixup 9 -> 10
+            zh : mixup 9 -> 10
+ WARNING [-2637]  HeaviestMix: mix 2 in zh has v.small gConst [17.922686] in U:\system\HTK3.2bin/HHEd
+            zh : mixup 9 -> 10
+ WARNING [-2637]  HeaviestMix: mix 3 in zh has v.small gConst [6.492508] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 5 in zh has v.small gConst [22.715099] in U:\system\HTK3.2bin/HHEd
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.281921, Std Dev GC = 16.172476
+          ssil : mixup 9 -> 10
+          ssil : mixup 9 -> 10
+          ssil : mixup 9 -> 10
+ MU: Number of mixes increased from 27 to 30
+
+MU 10 {}
+ Mixup to 10 components per stream
+  Mean GC = 91.246132, Std Dev GC = 16.215282
+            sp : mixup 9 -> 10
+ MU: Number of mixes increased from 9 to 10
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+33 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 10 mixes max]
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 89.998093, Std Dev GC = 16.511263
+            sh : mixup 10 -> 11
+            sh : mixup 10 -> 11
+            sh : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 89.996910, Std Dev GC = 16.501003
+            ih : mixup 10 -> 11
+            ih : mixup 10 -> 11
+            ih : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.034531, Std Dev GC = 16.501486
+            hh : mixup 10 -> 11
+            hh : mixup 10 -> 11
+            hh : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.041183, Std Dev GC = 16.505491
+            eh : mixup 10 -> 11
+            eh : mixup 10 -> 11
+            eh : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.025398, Std Dev GC = 16.517782
+            jh : mixup 10 -> 11
+            jh : mixup 10 -> 11
+            jh : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.045532, Std Dev GC = 16.504469
+             d : mixup 10 -> 11
+             d : mixup 10 -> 11
+             d : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.060112, Std Dev GC = 16.487494
+            ah : mixup 10 -> 11
+            ah : mixup 10 -> 11
+            ah : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.103027, Std Dev GC = 16.491165
+             k : mixup 10 -> 11
+             k : mixup 10 -> 11
+             k : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.134888, Std Dev GC = 16.492151
+             s : mixup 10 -> 11
+             s : mixup 10 -> 11
+             s : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.116966, Std Dev GC = 16.485384
+            uw : mixup 10 -> 11
+            uw : mixup 10 -> 11
+            uw : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.123482, Std Dev GC = 16.479240
+             n : mixup 10 -> 11
+             n : mixup 10 -> 11
+             n : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.148254, Std Dev GC = 16.474087
+             g : mixup 10 -> 11
+             g : mixup 10 -> 11
+             g : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.173798, Std Dev GC = 16.463150
+             r : mixup 10 -> 11
+             r : mixup 10 -> 11
+             r : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.181503, Std Dev GC = 16.457062
+             w : mixup 10 -> 11
+             w : mixup 10 -> 11
+             w : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.227455, Std Dev GC = 16.464836
+            aa : mixup 10 -> 11
+            aa : mixup 10 -> 11
+            aa : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.225899, Std Dev GC = 16.482473
+            dx : mixup 10 -> 11
+            dx : mixup 10 -> 11
+            dx : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.220467, Std Dev GC = 16.468248
+            er : mixup 10 -> 11
+            er : mixup 10 -> 11
+            er : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.214066, Std Dev GC = 16.454639
+             l : mixup 10 -> 11
+             l : mixup 10 -> 11
+             l : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.236649, Std Dev GC = 16.450150
+             y : mixup 10 -> 11
+             y : mixup 10 -> 11
+             y : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.198364, Std Dev GC = 16.474979
+            uh : mixup 10 -> 11
+            uh : mixup 10 -> 11
+            uh : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.199524, Std Dev GC = 16.463289
+            ae : mixup 10 -> 11
+            ae : mixup 10 -> 11
+            ae : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.210945, Std Dev GC = 16.456938
+             m : mixup 10 -> 11
+             m : mixup 10 -> 11
+             m : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.240219, Std Dev GC = 16.449926
+            oy : mixup 10 -> 11
+            oy : mixup 10 -> 11
+            oy : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.231766, Std Dev GC = 16.436758
+            dh : mixup 10 -> 11
+            dh : mixup 10 -> 11
+            dh : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.246941, Std Dev GC = 16.422523
+            iy : mixup 10 -> 11
+            iy : mixup 10 -> 11
+            iy : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.250076, Std Dev GC = 16.406971
+             v : mixup 10 -> 11
+             v : mixup 10 -> 11
+             v : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.270386, Std Dev GC = 16.393486
+             f : mixup 10 -> 11
+             f : mixup 10 -> 11
+             f : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.259727, Std Dev GC = 16.382675
+             t : mixup 10 -> 11
+             t : mixup 10 -> 11
+             t : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.291061, Std Dev GC = 16.380106
+            ow : mixup 10 -> 11
+            ow : mixup 10 -> 11
+            ow : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.300789, Std Dev GC = 16.364504
+            ch : mixup 10 -> 11
+            ch : mixup 10 -> 11
+            ch : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.279366, Std Dev GC = 16.356298
+             b : mixup 10 -> 11
+             b : mixup 10 -> 11
+             b : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.299141, Std Dev GC = 16.345022
+            ng : mixup 10 -> 11
+            ng : mixup 10 -> 11
+            ng : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.303139, Std Dev GC = 16.327951
+            ay : mixup 10 -> 11
+            ay : mixup 10 -> 11
+            ay : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.284973, Std Dev GC = 16.325815
+            th : mixup 10 -> 11
+            th : mixup 10 -> 11
+            th : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.274506, Std Dev GC = 16.320379
+            ey : mixup 10 -> 11
+            ey : mixup 10 -> 11
+            ey : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.246910, Std Dev GC = 16.338213
+             p : mixup 10 -> 11
+             p : mixup 10 -> 11
+             p : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.273254, Std Dev GC = 16.333303
+            aw : mixup 10 -> 11
+            aw : mixup 10 -> 11
+            aw : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.253441, Std Dev GC = 16.328302
+             z : mixup 10 -> 11
+             z : mixup 10 -> 11
+             z : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.237297, Std Dev GC = 16.316072
+            zh : mixup 10 -> 11
+            zh : mixup 10 -> 11
+ WARNING [-2637]  HeaviestMix: mix 2 in zh has v.small gConst [17.922657] in U:\system\HTK3.2bin/HHEd
+            zh : mixup 10 -> 11
+ WARNING [-2637]  HeaviestMix: mix 3 in zh has v.small gConst [6.492511] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 5 in zh has v.small gConst [22.715107] in U:\system\HTK3.2bin/HHEd
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.184540, Std Dev GC = 16.368881
+          ssil : mixup 10 -> 11
+          ssil : mixup 10 -> 11
+          ssil : mixup 10 -> 11
+ MU: Number of mixes increased from 30 to 33
+
+MU 11 {}
+ Mixup to 11 components per stream
+  Mean GC = 90.150581, Std Dev GC = 16.388348
+            sp : mixup 10 -> 11
+ MU: Number of mixes increased from 10 to 11
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+36 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 11 mixes max]
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 88.860542, Std Dev GC = 17.405849
+            sh : mixup 11 -> 12
+            sh : mixup 11 -> 12
+            sh : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 88.860771, Std Dev GC = 17.394632
+            ih : mixup 11 -> 12
+            ih : mixup 11 -> 12
+            ih : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 88.889481, Std Dev GC = 17.387249
+            hh : mixup 11 -> 12
+            hh : mixup 11 -> 12
+            hh : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 88.894531, Std Dev GC = 17.368389
+            eh : mixup 11 -> 12
+            eh : mixup 11 -> 12
+            eh : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 88.888359, Std Dev GC = 17.352970
+            jh : mixup 11 -> 12
+            jh : mixup 11 -> 12
+            jh : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 88.904533, Std Dev GC = 17.337109
+             d : mixup 11 -> 12
+             d : mixup 11 -> 12
+             d : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 88.923271, Std Dev GC = 17.327185
+            ah : mixup 11 -> 12
+            ah : mixup 11 -> 12
+            ah : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 88.962769, Std Dev GC = 17.329662
+             k : mixup 11 -> 12
+             k : mixup 11 -> 12
+             k : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 88.996162, Std Dev GC = 17.329561
+             s : mixup 11 -> 12
+             s : mixup 11 -> 12
+             s : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 88.977226, Std Dev GC = 17.317724
+            uw : mixup 11 -> 12
+            uw : mixup 11 -> 12
+            uw : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 88.964828, Std Dev GC = 17.326820
+             n : mixup 11 -> 12
+             n : mixup 11 -> 12
+             n : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.008888, Std Dev GC = 17.342657
+             g : mixup 11 -> 12
+             g : mixup 11 -> 12
+             g : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.046066, Std Dev GC = 17.342579
+             r : mixup 11 -> 12
+             r : mixup 11 -> 12
+             r : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.086136, Std Dev GC = 17.351543
+             w : mixup 11 -> 12
+             w : mixup 11 -> 12
+             w : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.074722, Std Dev GC = 17.339022
+            aa : mixup 11 -> 12
+            aa : mixup 11 -> 12
+            aa : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.065941, Std Dev GC = 17.338224
+            dx : mixup 11 -> 12
+            dx : mixup 11 -> 12
+            dx : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.057762, Std Dev GC = 17.327822
+            er : mixup 11 -> 12
+            er : mixup 11 -> 12
+            er : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.075218, Std Dev GC = 17.317757
+             l : mixup 11 -> 12
+             l : mixup 11 -> 12
+             l : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.090172, Std Dev GC = 17.304077
+             y : mixup 11 -> 12
+             y : mixup 11 -> 12
+             y : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.061531, Std Dev GC = 17.344347
+            uh : mixup 11 -> 12
+            uh : mixup 11 -> 12
+            uh : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.073845, Std Dev GC = 17.335135
+            ae : mixup 11 -> 12
+            ae : mixup 11 -> 12
+            ae : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.044189, Std Dev GC = 17.343473
+             m : mixup 11 -> 12
+             m : mixup 11 -> 12
+             m : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.074471, Std Dev GC = 17.337404
+            oy : mixup 11 -> 12
+            oy : mixup 11 -> 12
+            oy : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.069794, Std Dev GC = 17.321692
+            dh : mixup 11 -> 12
+            dh : mixup 11 -> 12
+            dh : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.073456, Std Dev GC = 17.305386
+            iy : mixup 11 -> 12
+            iy : mixup 11 -> 12
+            iy : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.078735, Std Dev GC = 17.295151
+             v : mixup 11 -> 12
+             v : mixup 11 -> 12
+             v : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.089401, Std Dev GC = 17.278315
+             f : mixup 11 -> 12
+             f : mixup 11 -> 12
+             f : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.082779, Std Dev GC = 17.269758
+             t : mixup 11 -> 12
+             t : mixup 11 -> 12
+             t : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.079697, Std Dev GC = 17.253473
+            ow : mixup 11 -> 12
+            ow : mixup 11 -> 12
+            ow : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.064316, Std Dev GC = 17.246746
+            ch : mixup 11 -> 12
+            ch : mixup 11 -> 12
+            ch : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.066528, Std Dev GC = 17.229811
+             b : mixup 11 -> 12
+             b : mixup 11 -> 12
+             b : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.091248, Std Dev GC = 17.220221
+            ng : mixup 11 -> 12
+            ng : mixup 11 -> 12
+            ng : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.102280, Std Dev GC = 17.205631
+            ay : mixup 11 -> 12
+            ay : mixup 11 -> 12
+            ay : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.109741, Std Dev GC = 17.198580
+            th : mixup 11 -> 12
+            th : mixup 11 -> 12
+            th : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.099045, Std Dev GC = 17.182686
+            ey : mixup 11 -> 12
+            ey : mixup 11 -> 12
+            ey : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.076485, Std Dev GC = 17.185061
+             p : mixup 11 -> 12
+             p : mixup 11 -> 12
+             p : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.078163, Std Dev GC = 17.182934
+            aw : mixup 11 -> 12
+            aw : mixup 11 -> 12
+            aw : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.062363, Std Dev GC = 17.205923
+             z : mixup 11 -> 12
+             z : mixup 11 -> 12
+             z : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.069397, Std Dev GC = 17.188919
+            zh : mixup 11 -> 12
+            zh : mixup 11 -> 12
+ WARNING [-2637]  HeaviestMix: mix 2 in zh has v.small gConst [17.922693] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 6 in zh has v.small gConst [15.093067] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 11 in zh has v.small gConst [-61.154888] in U:\system\HTK3.2bin/HHEd
+            zh : mixup 11 -> 12
+ WARNING [-2637]  HeaviestMix: mix 3 in zh has v.small gConst [6.492509] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 8 in zh has v.small gConst [13.712810] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 11 in zh has v.small gConst [6.818058] in U:\system\HTK3.2bin/HHEd
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 89.027504, Std Dev GC = 17.203190
+          ssil : mixup 11 -> 12
+          ssil : mixup 11 -> 12
+          ssil : mixup 11 -> 12
+ MU: Number of mixes increased from 33 to 36
+
+MU 12 {}
+ Mixup to 12 components per stream
+  Mean GC = 88.987305, Std Dev GC = 17.223431
+            sp : mixup 11 -> 12
+ MU: Number of mixes increased from 11 to 12
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+39 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 12 mixes max]
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 87.936348, Std Dev GC = 17.558493
+            sh : mixup 12 -> 13
+            sh : mixup 12 -> 13
+            sh : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 87.933525, Std Dev GC = 17.542885
+            ih : mixup 12 -> 13
+            ih : mixup 12 -> 13
+            ih : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 87.978996, Std Dev GC = 17.560266
+            hh : mixup 12 -> 13
+            hh : mixup 12 -> 13
+            hh : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.003922, Std Dev GC = 17.551666
+            eh : mixup 12 -> 13
+            eh : mixup 12 -> 13
+            eh : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.006111, Std Dev GC = 17.539869
+            jh : mixup 12 -> 13
+            jh : mixup 12 -> 13
+            jh : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.006737, Std Dev GC = 17.522402
+             d : mixup 12 -> 13
+             d : mixup 12 -> 13
+             d : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.056488, Std Dev GC = 17.541512
+            ah : mixup 12 -> 13
+            ah : mixup 12 -> 13
+            ah : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.082184, Std Dev GC = 17.533636
+             k : mixup 12 -> 13
+             k : mixup 12 -> 13
+             k : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.093063, Std Dev GC = 17.520414
+             s : mixup 12 -> 13
+             s : mixup 12 -> 13
+             s : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.078369, Std Dev GC = 17.506832
+            uw : mixup 12 -> 13
+            uw : mixup 12 -> 13
+            uw : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.105728, Std Dev GC = 17.506859
+             n : mixup 12 -> 13
+             n : mixup 12 -> 13
+             n : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.123566, Std Dev GC = 17.497189
+             g : mixup 12 -> 13
+             g : mixup 12 -> 13
+             g : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.159851, Std Dev GC = 17.498692
+             r : mixup 12 -> 13
+             r : mixup 12 -> 13
+             r : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.212196, Std Dev GC = 17.521025
+             w : mixup 12 -> 13
+             w : mixup 12 -> 13
+             w : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.217148, Std Dev GC = 17.506857
+            aa : mixup 12 -> 13
+            aa : mixup 12 -> 13
+            aa : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.244621, Std Dev GC = 17.509008
+            dx : mixup 12 -> 13
+            dx : mixup 12 -> 13
+            dx : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.239273, Std Dev GC = 17.497271
+            er : mixup 12 -> 13
+            er : mixup 12 -> 13
+            er : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.267372, Std Dev GC = 17.507210
+             l : mixup 12 -> 13
+             l : mixup 12 -> 13
+             l : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.279518, Std Dev GC = 17.495630
+             y : mixup 12 -> 13
+             y : mixup 12 -> 13
+             y : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.299965, Std Dev GC = 17.486530
+            uh : mixup 12 -> 13
+            uh : mixup 12 -> 13
+            uh : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.310181, Std Dev GC = 17.479603
+            ae : mixup 12 -> 13
+            ae : mixup 12 -> 13
+            ae : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.274284, Std Dev GC = 17.518425
+             m : mixup 12 -> 13
+             m : mixup 12 -> 13
+             m : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.291489, Std Dev GC = 17.509323
+            oy : mixup 12 -> 13
+            oy : mixup 12 -> 13
+            oy : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.259979, Std Dev GC = 17.506927
+            dh : mixup 12 -> 13
+            dh : mixup 12 -> 13
+            dh : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.266029, Std Dev GC = 17.510017
+            iy : mixup 12 -> 13
+            iy : mixup 12 -> 13
+            iy : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.231461, Std Dev GC = 17.528755
+             v : mixup 12 -> 13
+             v : mixup 12 -> 13
+             v : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.238815, Std Dev GC = 17.515083
+             f : mixup 12 -> 13
+             f : mixup 12 -> 13
+             f : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.232269, Std Dev GC = 17.499147
+             t : mixup 12 -> 13
+             t : mixup 12 -> 13
+             t : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.243866, Std Dev GC = 17.484713
+            ow : mixup 12 -> 13
+            ow : mixup 12 -> 13
+            ow : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.261841, Std Dev GC = 17.484596
+            ch : mixup 12 -> 13
+            ch : mixup 12 -> 13
+            ch : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.270950, Std Dev GC = 17.469193
+             b : mixup 12 -> 13
+             b : mixup 12 -> 13
+             b : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.287117, Std Dev GC = 17.456732
+            ng : mixup 12 -> 13
+            ng : mixup 12 -> 13
+            ng : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.317932, Std Dev GC = 17.455770
+            ay : mixup 12 -> 13
+            ay : mixup 12 -> 13
+            ay : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.303009, Std Dev GC = 17.449345
+            th : mixup 12 -> 13
+            th : mixup 12 -> 13
+            th : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.305946, Std Dev GC = 17.433979
+            ey : mixup 12 -> 13
+            ey : mixup 12 -> 13
+            ey : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.327721, Std Dev GC = 17.441860
+             p : mixup 12 -> 13
+             p : mixup 12 -> 13
+             p : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.326225, Std Dev GC = 17.427416
+            aw : mixup 12 -> 13
+            aw : mixup 12 -> 13
+            aw : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.305824, Std Dev GC = 17.429169
+             z : mixup 12 -> 13
+             z : mixup 12 -> 13
+             z : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.316422, Std Dev GC = 17.419559
+            zh : mixup 12 -> 13
+            zh : mixup 12 -> 13
+ WARNING [-2637]  HeaviestMix: mix 2 in zh has v.small gConst [17.922705] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 6 in zh has v.small gConst [15.093081] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 7 in zh has v.small gConst [18.532438] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 11 in zh has v.small gConst [-61.154888] in U:\system\HTK3.2bin/HHEd
+            zh : mixup 12 -> 13
+ WARNING [-2637]  HeaviestMix: mix 3 in zh has v.small gConst [6.492526] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 8 in zh has v.small gConst [13.710444] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 11 in zh has v.small gConst [6.817301] in U:\system\HTK3.2bin/HHEd
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.261421, Std Dev GC = 17.476175
+          ssil : mixup 12 -> 13
+          ssil : mixup 12 -> 13
+          ssil : mixup 12 -> 13
+ MU: Number of mixes increased from 36 to 39
+
+MU 13 {}
+ Mixup to 13 components per stream
+  Mean GC = 88.230782, Std Dev GC = 17.480406
+            sp : mixup 12 -> 13
+ MU: Number of mixes increased from 12 to 13
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+42 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 13 mixes max]
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.170425, Std Dev GC = 18.042599
+            sh : mixup 13 -> 14
+            sh : mixup 13 -> 14
+            sh : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.178062, Std Dev GC = 18.031515
+            ih : mixup 13 -> 14
+            ih : mixup 13 -> 14
+            ih : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.180840, Std Dev GC = 18.018293
+            hh : mixup 13 -> 14
+            hh : mixup 13 -> 14
+            hh : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.191360, Std Dev GC = 18.014275
+            eh : mixup 13 -> 14
+            eh : mixup 13 -> 14
+            eh : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.200844, Std Dev GC = 18.007120
+            jh : mixup 13 -> 14
+            jh : mixup 13 -> 14
+            jh : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.212013, Std Dev GC = 17.993977
+             d : mixup 13 -> 14
+             d : mixup 13 -> 14
+             d : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.232880, Std Dev GC = 17.984694
+            ah : mixup 13 -> 14
+            ah : mixup 13 -> 14
+            ah : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.256882, Std Dev GC = 17.976627
+             k : mixup 13 -> 14
+             k : mixup 13 -> 14
+             k : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.270836, Std Dev GC = 17.964737
+             s : mixup 13 -> 14
+             s : mixup 13 -> 14
+             s : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.274635, Std Dev GC = 17.950222
+            uw : mixup 13 -> 14
+            uw : mixup 13 -> 14
+            uw : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.274254, Std Dev GC = 17.946785
+             n : mixup 13 -> 14
+             n : mixup 13 -> 14
+             n : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.302696, Std Dev GC = 17.942162
+             g : mixup 13 -> 14
+             g : mixup 13 -> 14
+             g : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.336029, Std Dev GC = 17.942184
+             r : mixup 13 -> 14
+             r : mixup 13 -> 14
+             r : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.347137, Std Dev GC = 17.935678
+             w : mixup 13 -> 14
+             w : mixup 13 -> 14
+             w : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.343948, Std Dev GC = 17.937218
+            aa : mixup 13 -> 14
+            aa : mixup 13 -> 14
+            aa : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.320190, Std Dev GC = 17.938236
+            dx : mixup 13 -> 14
+            dx : mixup 13 -> 14
+            dx : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.324692, Std Dev GC = 17.927959
+            er : mixup 13 -> 14
+            er : mixup 13 -> 14
+            er : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.360924, Std Dev GC = 17.931702
+             l : mixup 13 -> 14
+             l : mixup 13 -> 14
+             l : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.383446, Std Dev GC = 17.924311
+             y : mixup 13 -> 14
+             y : mixup 13 -> 14
+             y : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.358482, Std Dev GC = 17.934551
+            uh : mixup 13 -> 14
+            uh : mixup 13 -> 14
+            uh : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.371880, Std Dev GC = 17.922644
+            ae : mixup 13 -> 14
+            ae : mixup 13 -> 14
+            ae : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.359253, Std Dev GC = 17.923309
+             m : mixup 13 -> 14
+             m : mixup 13 -> 14
+             m : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.369530, Std Dev GC = 17.908857
+            oy : mixup 13 -> 14
+            oy : mixup 13 -> 14
+            oy : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.346443, Std Dev GC = 17.903654
+            dh : mixup 13 -> 14
+            dh : mixup 13 -> 14
+            dh : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.351952, Std Dev GC = 17.888193
+            iy : mixup 13 -> 14
+            iy : mixup 13 -> 14
+            iy : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.345497, Std Dev GC = 17.879564
+             v : mixup 13 -> 14
+             v : mixup 13 -> 14
+             v : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.341621, Std Dev GC = 17.864998
+             f : mixup 13 -> 14
+             f : mixup 13 -> 14
+             f : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.334900, Std Dev GC = 17.852392
+             t : mixup 13 -> 14
+             t : mixup 13 -> 14
+             t : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.340065, Std Dev GC = 17.850925
+            ow : mixup 13 -> 14
+            ow : mixup 13 -> 14
+            ow : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.348366, Std Dev GC = 17.859463
+            ch : mixup 13 -> 14
+            ch : mixup 13 -> 14
+            ch : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.356560, Std Dev GC = 17.845125
+             b : mixup 13 -> 14
+             b : mixup 13 -> 14
+             b : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.365021, Std Dev GC = 17.831720
+            ng : mixup 13 -> 14
+            ng : mixup 13 -> 14
+            ng : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.375641, Std Dev GC = 17.822723
+            ay : mixup 13 -> 14
+            ay : mixup 13 -> 14
+            ay : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.365746, Std Dev GC = 17.862013
+            th : mixup 13 -> 14
+            th : mixup 13 -> 14
+            th : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.358627, Std Dev GC = 17.861792
+            ey : mixup 13 -> 14
+            ey : mixup 13 -> 14
+            ey : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.328926, Std Dev GC = 17.870729
+             p : mixup 13 -> 14
+             p : mixup 13 -> 14
+             p : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.317848, Std Dev GC = 17.857990
+            aw : mixup 13 -> 14
+            aw : mixup 13 -> 14
+            aw : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.316132, Std Dev GC = 17.844822
+             z : mixup 13 -> 14
+             z : mixup 13 -> 14
+             z : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.323616, Std Dev GC = 17.830696
+            zh : mixup 13 -> 14
+            zh : mixup 13 -> 14
+ WARNING [-2637]  HeaviestMix: mix 1 in zh has v.small gConst [-7.357842] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 6 in zh has v.small gConst [15.093076] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 11 in zh has v.small gConst [-61.154888] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 13 in zh has v.small gConst [0.430826] in U:\system\HTK3.2bin/HHEd
+            zh : mixup 13 -> 14
+ WARNING [-2637]  HeaviestMix: mix 3 in zh has v.small gConst [6.492508] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 8 in zh has v.small gConst [13.710434] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 9 in zh has v.small gConst [-1.047806] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 11 in zh has v.small gConst [6.820001] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 13 in zh has v.small gConst [-15.938070] in U:\system\HTK3.2bin/HHEd
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.251106, Std Dev GC = 17.917891
+          ssil : mixup 13 -> 14
+          ssil : mixup 13 -> 14
+          ssil : mixup 13 -> 14
+ MU: Number of mixes increased from 39 to 42
+
+MU 14 {}
+ Mixup to 14 components per stream
+  Mean GC = 87.217537, Std Dev GC = 17.920073
+            sp : mixup 13 -> 14
+ MU: Number of mixes increased from 13 to 14
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+45 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 14 mixes max]
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.232239, Std Dev GC = 18.416664
+            sh : mixup 14 -> 15
+            sh : mixup 14 -> 15
+            sh : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.238754, Std Dev GC = 18.405994
+            ih : mixup 14 -> 15
+            ih : mixup 14 -> 15
+            ih : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.265587, Std Dev GC = 18.405130
+            hh : mixup 14 -> 15
+            hh : mixup 14 -> 15
+            hh : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.256126, Std Dev GC = 18.394676
+            eh : mixup 14 -> 15
+            eh : mixup 14 -> 15
+            eh : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.234711, Std Dev GC = 18.386427
+            jh : mixup 14 -> 15
+            jh : mixup 14 -> 15
+            jh : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.238930, Std Dev GC = 18.373594
+             d : mixup 14 -> 15
+             d : mixup 14 -> 15
+             d : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.263275, Std Dev GC = 18.367559
+            ah : mixup 14 -> 15
+            ah : mixup 14 -> 15
+            ah : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.308510, Std Dev GC = 18.386858
+             k : mixup 14 -> 15
+             k : mixup 14 -> 15
+             k : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.345894, Std Dev GC = 18.393646
+             s : mixup 14 -> 15
+             s : mixup 14 -> 15
+             s : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.347771, Std Dev GC = 18.387070
+            uw : mixup 14 -> 15
+            uw : mixup 14 -> 15
+            uw : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.338661, Std Dev GC = 18.377014
+             n : mixup 14 -> 15
+             n : mixup 14 -> 15
+             n : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.351822, Std Dev GC = 18.364811
+             g : mixup 14 -> 15
+             g : mixup 14 -> 15
+             g : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.375984, Std Dev GC = 18.360085
+             r : mixup 14 -> 15
+             r : mixup 14 -> 15
+             r : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.379662, Std Dev GC = 18.354473
+             w : mixup 14 -> 15
+             w : mixup 14 -> 15
+             w : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.413261, Std Dev GC = 18.359514
+            aa : mixup 14 -> 15
+            aa : mixup 14 -> 15
+            aa : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.414749, Std Dev GC = 18.360149
+            dx : mixup 14 -> 15
+            dx : mixup 14 -> 15
+            dx : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.425537, Std Dev GC = 18.349218
+            er : mixup 14 -> 15
+            er : mixup 14 -> 15
+            er : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.409058, Std Dev GC = 18.346960
+             l : mixup 14 -> 15
+             l : mixup 14 -> 15
+             l : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.437447, Std Dev GC = 18.346462
+             y : mixup 14 -> 15
+             y : mixup 14 -> 15
+             y : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.415726, Std Dev GC = 18.368103
+            uh : mixup 14 -> 15
+            uh : mixup 14 -> 15
+            uh : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.444817, Std Dev GC = 18.367950
+            ae : mixup 14 -> 15
+            ae : mixup 14 -> 15
+            ae : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.426949, Std Dev GC = 18.366127
+             m : mixup 14 -> 15
+             m : mixup 14 -> 15
+             m : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.466858, Std Dev GC = 18.379951
+            oy : mixup 14 -> 15
+            oy : mixup 14 -> 15
+            oy : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.440659, Std Dev GC = 18.381752
+            dh : mixup 14 -> 15
+            dh : mixup 14 -> 15
+            dh : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.451447, Std Dev GC = 18.368809
+            iy : mixup 14 -> 15
+            iy : mixup 14 -> 15
+            iy : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.471962, Std Dev GC = 18.360563
+             v : mixup 14 -> 15
+             v : mixup 14 -> 15
+             v : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.479462, Std Dev GC = 18.346703
+             f : mixup 14 -> 15
+             f : mixup 14 -> 15
+             f : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.473244, Std Dev GC = 18.341986
+             t : mixup 14 -> 15
+             t : mixup 14 -> 15
+             t : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.508087, Std Dev GC = 18.346592
+            ow : mixup 14 -> 15
+            ow : mixup 14 -> 15
+            ow : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.513832, Std Dev GC = 18.346741
+            ch : mixup 14 -> 15
+            ch : mixup 14 -> 15
+            ch : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.528534, Std Dev GC = 18.335865
+             b : mixup 14 -> 15
+             b : mixup 14 -> 15
+             b : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.546204, Std Dev GC = 18.332991
+            ng : mixup 14 -> 15
+            ng : mixup 14 -> 15
+            ng : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.548897, Std Dev GC = 18.318720
+            ay : mixup 14 -> 15
+            ay : mixup 14 -> 15
+            ay : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.534576, Std Dev GC = 18.338728
+            th : mixup 14 -> 15
+            th : mixup 14 -> 15
+            th : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.533241, Std Dev GC = 18.325714
+            ey : mixup 14 -> 15
+            ey : mixup 14 -> 15
+            ey : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.486191, Std Dev GC = 18.352663
+             p : mixup 14 -> 15
+             p : mixup 14 -> 15
+             p : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.502426, Std Dev GC = 18.341927
+            aw : mixup 14 -> 15
+            aw : mixup 14 -> 15
+            aw : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.476997, Std Dev GC = 18.363659
+             z : mixup 14 -> 15
+             z : mixup 14 -> 15
+             z : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.482536, Std Dev GC = 18.349600
+            zh : mixup 14 -> 15
+            zh : mixup 14 -> 15
+ WARNING [-2637]  HeaviestMix: mix 1 in zh has v.small gConst [-7.357842] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 2 in zh has v.small gConst [-0.820044] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 11 in zh has v.small gConst [-61.154888] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 13 in zh has v.small gConst [0.430826] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 14 in zh has v.small gConst [2.142844] in U:\system\HTK3.2bin/HHEd
+            zh : mixup 14 -> 15
+ WARNING [-2637]  HeaviestMix: mix 3 in zh has v.small gConst [6.492518] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 9 in zh has v.small gConst [-1.047800] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 11 in zh has v.small gConst [6.820488] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 13 in zh has v.small gConst [-15.938070] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 14 in zh has v.small gConst [-24.655264] in U:\system\HTK3.2bin/HHEd
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.436562, Std Dev GC = 18.377901
+          ssil : mixup 14 -> 15
+          ssil : mixup 14 -> 15
+          ssil : mixup 14 -> 15
+ MU: Number of mixes increased from 42 to 45
+
+MU 15 {}
+ Mixup to 15 components per stream
+  Mean GC = 86.430176, Std Dev GC = 18.386751
+            sp : mixup 14 -> 15
+ MU: Number of mixes increased from 14 to 15
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+48 Iterations completed
+HHEd
+ 41/41 Models Loaded [5 states max, 15 mixes max]
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.417915, Std Dev GC = 19.079456
+            sh : mixup 15 -> 16
+            sh : mixup 15 -> 16
+            sh : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.417580, Std Dev GC = 19.064024
+            ih : mixup 15 -> 16
+            ih : mixup 15 -> 16
+            ih : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.454590, Std Dev GC = 19.073023
+            hh : mixup 15 -> 16
+            hh : mixup 15 -> 16
+            hh : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.440392, Std Dev GC = 19.065762
+            eh : mixup 15 -> 16
+            eh : mixup 15 -> 16
+            eh : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.474243, Std Dev GC = 19.071581
+            jh : mixup 15 -> 16
+            jh : mixup 15 -> 16
+            jh : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.493431, Std Dev GC = 19.063005
+             d : mixup 15 -> 16
+             d : mixup 15 -> 16
+             d : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.517914, Std Dev GC = 19.060656
+            ah : mixup 15 -> 16
+            ah : mixup 15 -> 16
+            ah : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.552864, Std Dev GC = 19.069399
+             k : mixup 15 -> 16
+             k : mixup 15 -> 16
+             k : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.584381, Std Dev GC = 19.071392
+             s : mixup 15 -> 16
+             s : mixup 15 -> 16
+             s : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.584557, Std Dev GC = 19.064413
+            uw : mixup 15 -> 16
+            uw : mixup 15 -> 16
+            uw : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.591362, Std Dev GC = 19.059278
+             n : mixup 15 -> 16
+             n : mixup 15 -> 16
+             n : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.615005, Std Dev GC = 19.055977
+             g : mixup 15 -> 16
+             g : mixup 15 -> 16
+             g : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.641869, Std Dev GC = 19.054455
+             r : mixup 15 -> 16
+             r : mixup 15 -> 16
+             r : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.629997, Std Dev GC = 19.045994
+             w : mixup 15 -> 16
+             w : mixup 15 -> 16
+             w : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.647392, Std Dev GC = 19.041515
+            aa : mixup 15 -> 16
+            aa : mixup 15 -> 16
+            aa : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.662735, Std Dev GC = 19.033203
+            dx : mixup 15 -> 16
+            dx : mixup 15 -> 16
+            dx : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.668846, Std Dev GC = 19.025133
+            er : mixup 15 -> 16
+            er : mixup 15 -> 16
+            er : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.683189, Std Dev GC = 19.014582
+             l : mixup 15 -> 16
+             l : mixup 15 -> 16
+             l : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.712379, Std Dev GC = 19.017214
+             y : mixup 15 -> 16
+             y : mixup 15 -> 16
+             y : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.706306, Std Dev GC = 19.022787
+            uh : mixup 15 -> 16
+            uh : mixup 15 -> 16
+            uh : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.705124, Std Dev GC = 19.015085
+            ae : mixup 15 -> 16
+            ae : mixup 15 -> 16
+            ae : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.674179, Std Dev GC = 19.029800
+             m : mixup 15 -> 16
+             m : mixup 15 -> 16
+             m : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.711555, Std Dev GC = 19.043032
+            oy : mixup 15 -> 16
+            oy : mixup 15 -> 16
+            oy : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.711357, Std Dev GC = 19.028387
+            dh : mixup 15 -> 16
+            dh : mixup 15 -> 16
+            dh : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.726883, Std Dev GC = 19.018486
+            iy : mixup 15 -> 16
+            iy : mixup 15 -> 16
+            iy : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.737801, Std Dev GC = 19.006168
+             v : mixup 15 -> 16
+             v : mixup 15 -> 16
+             v : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.748451, Std Dev GC = 18.992996
+             f : mixup 15 -> 16
+             f : mixup 15 -> 16
+             f : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.738029, Std Dev GC = 18.982506
+             t : mixup 15 -> 16
+             t : mixup 15 -> 16
+             t : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.760536, Std Dev GC = 18.982279
+            ow : mixup 15 -> 16
+            ow : mixup 15 -> 16
+            ow : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.754028, Std Dev GC = 18.974642
+            ch : mixup 15 -> 16
+            ch : mixup 15 -> 16
+            ch : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.739075, Std Dev GC = 18.964378
+             b : mixup 15 -> 16
+             b : mixup 15 -> 16
+             b : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.751953, Std Dev GC = 18.959307
+            ng : mixup 15 -> 16
+            ng : mixup 15 -> 16
+            ng : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.774979, Std Dev GC = 18.959078
+            ay : mixup 15 -> 16
+            ay : mixup 15 -> 16
+            ay : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.758965, Std Dev GC = 18.959576
+            th : mixup 15 -> 16
+            th : mixup 15 -> 16
+            th : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.759148, Std Dev GC = 18.948551
+            ey : mixup 15 -> 16
+            ey : mixup 15 -> 16
+            ey : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.746811, Std Dev GC = 18.969744
+             p : mixup 15 -> 16
+             p : mixup 15 -> 16
+             p : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.764084, Std Dev GC = 18.963835
+            aw : mixup 15 -> 16
+            aw : mixup 15 -> 16
+            aw : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.742691, Std Dev GC = 18.960274
+             z : mixup 15 -> 16
+             z : mixup 15 -> 16
+             z : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.745857, Std Dev GC = 18.953373
+            zh : mixup 15 -> 16
+            zh : mixup 15 -> 16
+ WARNING [-2637]  HeaviestMix: mix 1 in zh has v.small gConst [-7.357842] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 2 in zh has v.small gConst [-0.743475] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 3 in zh has v.small gConst [-8.399073] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 11 in zh has v.small gConst [-61.154888] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 13 in zh has v.small gConst [0.430825] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 14 in zh has v.small gConst [0.148030] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 15 in zh has v.small gConst [-61.154888] in U:\system\HTK3.2bin/HHEd
+            zh : mixup 15 -> 16
+ WARNING [-2637]  HeaviestMix: mix 3 in zh has v.small gConst [6.492516] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 9 in zh has v.small gConst [-1.047806] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 11 in zh has v.small gConst [6.821394] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 13 in zh has v.small gConst [-15.938071] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 14 in zh has v.small gConst [-24.655264] in U:\system\HTK3.2bin/HHEd
+ WARNING [-2637]  HeaviestMix: mix 15 in zh has v.small gConst [-19.436489] in U:\system\HTK3.2bin/HHEd
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.698608, Std Dev GC = 19.000702
+          ssil : mixup 15 -> 16
+          ssil : mixup 15 -> 16
+          ssil : mixup 15 -> 16
+ MU: Number of mixes increased from 45 to 48
+
+MU 16 {}
+ Mixup to 16 components per stream
+  Mean GC = 85.688133, Std Dev GC = 18.991686
+            sp : mixup 15 -> 16
+ MU: Number of mixes increased from 15 to 16
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+Pruning-Off
+ WARNING [-2331]  UpdateModels: sp[37] copied: only 0 egs
+ in U:\system\HTK3.2bin/HERest
+51 Iterations completed
+Training complete
+Testing...
+Building word ssil
+Building word sp
+Building word zh
+Building word !NULL
+Building word z
+Building word aw
+Building word p
+Building word ey
+Building word th
+Building word ay
+Building word ng
+Building word b
+Building word ch
+Building word ow
+Building word t
+Building word f
+Building word v
+Building word iy
+Building word dh
+Building word oy
+Building word m
+Building word ae
+Building word uh
+Building word y
+Building word l
+Building word er
+Building word dx
+Building word aa
+Building word w
+Building word r
+Building word g
+Building word n
+Building word uw
+Building word s
+Building word k
+Building word ah
+Building word d
+Building word jh
+Building word eh
+Building word hh
+Building word ih
+Building word sh
+Building word ssil
+Building word !NULL
+Building word !NULL
+89 nodes
+ = 45 word (0 null), init 42, int 0, fin 0, cf 0
+205 links = int 42, ext 161 (0 for null words)
+Testing complete
+
+------------------------------------------------------------------
